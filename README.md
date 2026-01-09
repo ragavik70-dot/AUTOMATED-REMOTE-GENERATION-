@@ -24,3 +24,4 @@ After the analysis phase, the script focuses on report generation. Using PDF lib
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/fa50362b-a498-4654-bc49-dfa19f300a47)
